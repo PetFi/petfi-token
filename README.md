@@ -1,4 +1,4 @@
-# PFT ERC20 token
+# PFT token
 
 Token for PetFi Platform
 
@@ -9,7 +9,7 @@ Token for PetFi Platform
 - Total supply: 248,012,500
 - Token sale price: 0.10$
 
-- Transaction fee:
+### Transaction fee:
 - 2% fee auto moved to PETFI project wallet
 - 2% fee auto distribute to all holders
 - 1% fee burned forever
