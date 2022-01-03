@@ -1,4 +1,4 @@
-# PFT token
+# PFT TOKEN
 
 Token for PetFi Platform
 
