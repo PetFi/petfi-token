@@ -1,0 +1,28 @@
+{
+  "name": "petfi-token",
+  "version": "1.0.0",
+  "description": "Token for PetFi NFT marketplace",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetFi/petfi-token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PetFi/petfi-token/issues"
+  },
+  "homepage": "https://github.com/PetFi/petfi-token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "truffle-plugin-verify": "^0.5.20"
+  }
+}
